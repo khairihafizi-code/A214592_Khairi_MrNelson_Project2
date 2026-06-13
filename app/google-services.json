@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59937656504",
+    "project_id": "verifinews-999b2",
+    "storage_bucket": "verifinews-999b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59937656504:android:e3f56f478df9d3140eee4d",
+        "android_client_info": {
+          "package_name": "com.example.a214592_khairi_mrnelson_project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9IK4Ar3hhz6R-3HVB1_ntzJIByL0TpXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
